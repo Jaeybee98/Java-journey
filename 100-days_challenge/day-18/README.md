@@ -1,4 +1,4 @@
-#day17 of #100days
+#day18 of #100days
 
 I learnt about Immutable Strings and Interned Strings, Replacing and Splitting Strings, Matching, Replacing and Splitting by Patterns, Conversion between Strings and Arrays, Converting Characters and Numeric Values to Strings
 
